@@ -1,0 +1,5 @@
+Load feature dataset
+Split data into training and testing sets
+Train Random Forest classifier
+Evaluate model performance
+Save trained model
