@@ -46,6 +46,14 @@ and hardware-specific setups.
 -  **Pseudo-code:** `/pseudo_code/`
 
 ---
+##  Reproducibility Notes
+
+- CSI extraction depends on Intel 5300 NIC hardware
+- MATLAB used for CSI `.dat` to `.mat` conversion
+- Python (NumPy, scikit-learn) used for feature extraction and ML
+- RF behavior is environment-dependent; results may vary across rooms
+- 
+---
 
 ##  Future Scope
 - Deep learning models (CNN/LSTM)
