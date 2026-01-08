@@ -1,0 +1,6 @@
+Load CSI data
+Remove noisy subcarriers
+Normalize amplitude values
+Segment data into windows
+Extract statistical features
+Assign activity labels
