@@ -3,7 +3,7 @@ RF-based Human Activity Recognition using Wi-Fi CSI (Internship Project)
 
 
  **Summer Research Internship at BITS Pilani**
- **Author:** Azad Shaikh  
+ **Author:** Azad Shaikh 
  **Institute:** National Institute of Technology Raipur (ECE)  
  **Supervisor:** Dr. Sandeep Joshi  
 
